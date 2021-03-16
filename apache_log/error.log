@@ -1,0 +1,31 @@
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Tue Mar 16 15:18:31.081098 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.16 configured -- resuming normal operations
+[Tue Mar 16 15:18:31.082832 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 16 15:21:47.539117 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Tue Mar 16 15:22:52.811654 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.16 configured -- resuming normal operations
+[Tue Mar 16 15:22:52.811807 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 16 15:24:36.580373 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Tue Mar 16 15:24:59.836085 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.16 configured -- resuming normal operations
+[Tue Mar 16 15:24:59.837170 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 16 15:26:05.617038 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Mar 16 15:32:58.991488 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.16 configured -- resuming normal operations
+[Tue Mar 16 15:32:58.991611 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 16 15:36:32.698048 2021] [php7:warn] [pid 18] [client 172.23.0.1:35010] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/html/index.php on line 7
+[Tue Mar 16 15:37:02.193809 2021] [php7:warn] [pid 19] [client 172.23.0.1:35038] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/index.php on line 7
+[Tue Mar 16 15:46:42.888169 2021] [authz_core:error] [pid 21] [client 172.23.0.1:35332] AH01630: client denied by server configuration: /var/www/html/ci4/app/
+[Tue Mar 16 15:46:43.023366 2021] [authz_core:error] [pid 21] [client 172.23.0.1:35332] AH01630: client denied by server configuration: /var/www/html/ci4/writable/
+[Tue Mar 16 15:46:59.506796 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Mar 16 15:48:05.514769 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.16 configured -- resuming normal operations
+[Tue Mar 16 15:48:05.514893 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 16 16:16:09.753428 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Mar 16 16:40:19.656799 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.16 configured -- resuming normal operations
+[Tue Mar 16 16:40:19.705233 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 16 16:40:20.054528 2021] [php7:warn] [pid 16] [client 172.22.0.1:50294] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/html/index.php on line 7
+[Tue Mar 16 16:41:09.459668 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Mar 16 16:41:28.955383 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.16 configured -- resuming normal operations
+[Tue Mar 16 16:41:28.956530 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 16 16:45:38.874915 2021] [authz_core:error] [pid 24] [client 172.22.0.1:50844] AH01630: client denied by server configuration: /var/www/html/ci4/app/
+[Tue Mar 16 16:45:38.914090 2021] [authz_core:error] [pid 24] [client 172.22.0.1:50844] AH01630: client denied by server configuration: /var/www/html/ci4/writable/
+[Tue Mar 16 16:47:16.138527 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
